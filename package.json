@@ -1,0 +1,27 @@
+{
+  "name": "pcat",
+  "version": "1.0.0",
+  "description": "PCAT photo app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elifnurunal/PCAT.git"
+  },
+  "keywords": [
+    "photo",
+    "app",
+    "camera"
+  ],
+  "author": "ELİF Nur Ünal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elifnurunal/PCAT/issues"
+  },
+  "homepage": "https://github.com/elifnurunal/PCAT#readme",
+  "devDependencies": {
+    "prettier": "2.7.1"
+  }
+}
